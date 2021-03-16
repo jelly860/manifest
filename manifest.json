@@ -1,0 +1,39 @@
+{
+  "name": "paltycox",
+  "short_name": "PaltyCox",
+  "scope": "URL HOMEPAGE",
+  "start_url": "https://www.paltycox.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#0071ad",
+  "description": "Situs Online Media Informasi Mengenai Teknologi, Gadget, Smartphone, Bisnis, Belajar Blogging serta Sebagai Media Belajar Pendidikan Global Secara Umum Terutama Belajar Koding",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s48/logo-manifest-json.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s72/logo-manifest-json.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s96/logo-manifest-json.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s144/logo-manifest-json.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s168/logo-manifest-json.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s192/logo-manifest-json.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-eitexJP4hlI/YFA1Q62G7BI/AAAAAAAACBU/Ds1RCHxmHW8rF8Kn_wQFXPT0fy3OQKSdQCLcBGAsYHQ/s512/logo-manifest-json.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
